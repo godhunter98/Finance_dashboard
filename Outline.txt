@@ -1,0 +1,21 @@
+What do we actually want to do with our dashboard?
+
+What all do we need to keep track of?
+ - Bank Balances 
+ - Bank Interest Rates
+ - Indian Share holdings + Prices
+ - Mutual Fund units Balances + NAV's
+ - PPF holdings + Interest Rates
+ - Gold Prices/Gm and gm/s u hold + goes up by 200RS daily
+ - Us stocks + Prices
+ - Less any credit card statements Generated and reduce their Balances from the networth
+
+What features do we need?
+> Prices refresh automatically (at least for shares)
+> Fetch holdings if possible
+> Daily net-worth number and a graph tracking it on a daily basis
+> Py-chart showing allocation\
+
+For the future:
+# If your networth moves by 2% plus, you get a telegram message
+# If it hits new high, you get a telegram message.
